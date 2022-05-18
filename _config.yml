@@ -35,6 +35,9 @@ remote_theme: patdryburgh/hitchens
 plugins:
   - jekyll-feed
 
+exclude:
+  - dddd-mm-yy-template.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
